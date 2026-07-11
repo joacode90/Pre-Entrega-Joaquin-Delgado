@@ -1,26 +1,38 @@
 [
     {
         "id": "1",
-        "nombre": "Producto 1",
+        "nombre": "Budín Glaseado",
         "img": "images/budin-1.jpg",
         "precio": 100
     },
     {
         "id": "2",
-        "nombre": "Producto 2",
+        "nombre": "Budín Chocolate",
         "img": "images/budin-2.jpg",
         "precio": 100
     },
     {
         "id": "3",
-        "nombre": "Producto 3",
+        "nombre": "Galletitas",
         "img": "images/galletitas.jpg",
         "precio": 100
     },
     {
         "id": "4",
-        "nombre": "Producto 4",
+        "nombre": "Pan Francés",
         "img": "images/pan.jpg",
+        "precio": 100
+    },
+    {
+        "id": "5",
+        "nombre": "Alfajor Maicena",
+        "img": "images/alfajores.jpg",
+        "precio": 100
+    },
+    {
+        "id": "6",
+        "nombre": "Muffins",
+        "img": "images/muffins.jpg",
         "precio": 100
     }
 ]
