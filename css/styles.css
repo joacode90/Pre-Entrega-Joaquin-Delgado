@@ -11,7 +11,7 @@ html {
 body {
     font-family: "Poppins", sans-serif;
     font-size: 1.6rem;
-    background: bisque;
+    background: darkgoldenrod;
     color: white;
 
     display: flex;
@@ -57,7 +57,7 @@ h2 {
 
 header,
 footer {
-    background: rgb(252, 192, 120);
+    background: rgb(150, 86, 9);
     color: white;
     width: 100%;
 
